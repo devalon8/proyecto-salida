@@ -1,23 +1,42 @@
 ¿Como funcionará el sistema?
 
-El sistema funcionara de manera en que el usuario pueda compartir sus rutas, estas deberán ser descritas detalladamente para mejor entendimeinto.
+El sistema funcionara de manera en que el usuario pueda compartir sus rutas, estas deberán ser descritas detalladamente 
+para mejor entendimeinto.
 
-Un usuario podrá compartir una ruta especificada con un nombre, en donde detallará el inicio y el destino, los lugares y/o los locales que visitó. Estas rutas se mostrarán en un mapa y tendrán la opción de agregar marcadores de interés, estos marcadores podrán ser informativos, de advertencias y de peligro. Esta ruta podrá ser valorizada por otros usuarios que deseen realizar esta ruta, así ellos podrán opinar acerca de esta ruta y le podrán dar una valoración a la ruta y a aquellos locales y atractivos publicados por la ruta.
+Un usuario podrá compartir una ruta especificada con un nombre, en donde detallará el inicio y el destino, los 
+lugares y/o los locales que visitó. Estas rutas se mostrarán en un mapa y tendrán la opción de agregar marcadores de 
+interés, estos marcadores podrán ser informativos, de advertencias y de peligro. Esta ruta podrá ser valorizada por 
+otros usuarios que deseen realizar esta ruta, así ellos podrán opinar acerca de esta ruta y le podrán dar una valoración 
+a la ruta y a aquellos locales y atractivos publicados por la ruta.
 
 ¿Cuál es la idea de la valorización de la ruta? 
-La idea es que los usuarios puedan realizar esta ruta compartida para así previamente poder hacer una valoración que indique que tan satisfactoria es esta ruta publicada. La valorización se realizará por medio de una nota, la cual dependiendo de la misma puede ser mala o buena. Esta medición es netamente personal, por lo cual mientras más detalles se expresen, mejor será la veracidad de la valoración.
+La idea es que los usuarios puedan realizar esta ruta compartida para así previamente poder hacer una valoración que 
+indique que tan satisfactoria es esta ruta publicada. La valorización se realizará por medio de una nota, la cual 
+dependiendo de la misma puede ser mala o buena. Esta medición es netamente personal, por lo cual mientras más detalles 
+se expresen, mejor será la veracidad de la valoración.
 
 ¿Cómo funcionará la valorización de los locales y/o atractivos turísticos?
-Ya que son dos cosas diferentes estos se harán de forma diferente, por un lado los locales visitados ofrecen servicios, es más concreto medir y valorizar, mientras que un atractivo turístico se basa en gustos personales.
+Ya que son dos cosas diferentes estos se harán de forma diferente, por un lado los locales visitados ofrecen servicios, 
+es más concreto medir y valorizar, mientras que un atractivo turístico se basa en gustos personales.
 
 ¿Como funcionará el despliegue de información en el mapa?
-La informacion basica que se agregará a la ruta será el nombre, descripcion, duración, valorizaciónde la ruta, el mapa con la ruta y comentarios.
-La informacion debe ser clara e intuitiva para todos los usuarios, lo primero es que cada ruta se pueda ver de inicio a fin demarcada de manera especial con algun color, este color sera distintivo de acuerdo a como se hizo esta ruta turistica, ya sea en motocicleta, en bicicleta, en vehiculo, locomocion publica y otro. Cabe destacar que este proceso de eleccion de un distintivo es opcional, por lo que si el usuario no quiere especificar por que medio se realizó esta ruta se demarcará de manera prodeterminada. (DESCRIBIR MEJOR EL TEMA DE LA DEMARCACION DE RUTAS)
-Luego la informacion de lugares atractivos sera por medio de algun marcador especial en que se sepa a primera vista que es un atractivo turistico.
-La informacion de los locales sera por medio de marcadores que se especial que se identifique que es un marcador de alguna empresa o local de visita. Dentro de los locales puede estar incluidos varios rubros como lo pueden ser: Hoteles, Locales de Comida rápida, Restaurantes, Museos, entre otros. (Detallar especificamente cuales son)
-Estos marcadores estarán en la ruta o cerca de la ruta(Que tan cerca ? 10 metros, 10 kilometros, especificar), y cada uno de ellos contendrá la información necesaria.
+La informacion basica que se agregará a la ruta será el nombre, descripcion, duración, valorizaciónde la ruta, el mapa con 
+la ruta y comentarios.
+La informacion debe ser clara e intuitiva para todos los usuarios, lo primero es que cada ruta se pueda ver de inicio a fin
+demarcada de manera especial con algun color, este color sera distintivo de acuerdo a como se hizo esta ruta turistica, ya
+sea en motocicleta, en bicicleta, en vehiculo, locomocion publica y otro. Cabe destacar que este proceso de eleccion de un 
+distintivo es opcional, por lo que si el usuario no quiere especificar por que medio se realizó esta ruta se demarcará de 
+manera prodeterminada. (DESCRIBIR MEJOR EL TEMA DE LA DEMARCACION DE RUTAS)
+Luego la informacion de lugares atractivos sera por medio de algun marcador especial en que se sepa a primera vista que es
+un atractivo turistico.
+La informacion de los locales sera por medio de marcadores que se especial que se identifique que es un marcador de alguna 
+empresa o local de visita. Dentro de los locales puede estar incluidos varios rubros como lo pueden ser: Hoteles, Locales
+de Comida rápida, Restaurantes, Museos, entre otros. (Detallar especificamente cuales son)
+Estos marcadores estarán en la ruta o cerca de la ruta(Que tan cerca ? 10 metros, 10 kilometros, especificar), y cada uno 
+de ellos contendrá la información necesaria.
 La valorizacion sera por medio de 5 "estrellas" las que en promedio mostrarán una nota desde el 0 al 5
-Los comentarios seran para los usuarios que quieran dejar una opinion opcional de la ruta, mientras que en la descripcion es el apartado del usuario que ha creado la ruta para expresar alguna opinion personal sobre la ruta
+Los comentarios seran para los usuarios que quieran dejar una opinion opcional de la ruta, mientras que en la descripcion 
+es el apartado del usuario que ha creado la ruta para expresar alguna opinion personal sobre la ruta
 
 
 
